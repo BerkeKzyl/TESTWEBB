@@ -1,0 +1,20 @@
+.projectPage {
+    text-align: center;
+    padding: 80px 20px;
+    color: white;
+  }
+  
+  .imagesContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .projectImage {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px;
+  }
+  

@@ -1,0 +1,20 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    opacity: 60%;
+}
+
+div .footer {
+    opacity: 100%;
+}
+.footerLink {
+    text-decoration: underline;
+    color: white;
+}
